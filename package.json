@@ -4,9 +4,7 @@
   "description": "Create GRPC errors",
   "homepage": "",
   "author": "James Sharp",
-  "files": [
-    "lib"
-  ],
+  "types": "index.d.ts",
   "main": "index.js",
   "keywords": [
     "grpc",
